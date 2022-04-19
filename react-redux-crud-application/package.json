@@ -13,6 +13,7 @@
     "react-router-dom": "4.x",
     "react-scripts": "5.0.1",
     "redux": "3.x",
+    "redux-devtools-extension": "2.x",
     "redux-form": "7.x",
     "redux-thunk": "2.x",
     "web-vitals": "^2.1.4"
